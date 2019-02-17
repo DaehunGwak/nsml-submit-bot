@@ -14,6 +14,11 @@ python main.py
 원하시는 세션/모델 을 제출하시면 됩니다.
 
 
+## Requirements.
+
+* 미리 콘솔로 nsml 로그인이 되어 세션을 열어두셔야 합니다.
+* python 3.6+
+
 ## References.
 
 * 대회 출처 : [네이버 AI 해커톤 2018_Ai Vision](https://github.com/AiHackathon2018/AI-Vision)
